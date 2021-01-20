@@ -1,0 +1,823 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/gL8myjGc2qrmqVosyGm5CWTir9A.jpg",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "id": 77169,
+      "original_language": "en",
+      "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+      "popularity": 1179.939,
+      "poster_path": "/obLBdhLxheKg8Li1qO11r2SwmYO.jpg",
+      "vote_average": 8.1,
+      "vote_count": 1779,
+      "first_air_date": "2018-05-02",
+      "name": "Cobra Kai",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "Cobra Kai"
+    },
+    {
+      "backdrop_path": "/o7qi2v4uWQ8bZ1tW3KI0Ztn2epk.jpg",
+      "genre_ids": [
+        10765,
+        10759
+      ],
+      "id": 82856,
+      "original_language": "en",
+      "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+      "popularity": 1050.47,
+      "poster_path": "/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+      "vote_average": 8.5,
+      "vote_count": 5184,
+      "first_air_date": "2019-11-12",
+      "name": "The Mandalorian",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "The Mandalorian"
+    },
+    {
+      "backdrop_path": "/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "id": 44217,
+      "original_language": "en",
+      "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+      "popularity": 935.804,
+      "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+      "vote_average": 8,
+      "vote_count": 3814,
+      "first_air_date": "2013-03-03",
+      "name": "Vikings",
+      "origin_country": [
+        "CA"
+      ],
+      "original_name": "Vikings"
+    },
+    {
+      "backdrop_path": "/lbWUCXIeoVXowAtLlAVR3aeHjkT.jpg",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 96677,
+      "original_language": "fr",
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "popularity": 926.506,
+      "poster_path": "/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg",
+      "vote_average": 8.1,
+      "vote_count": 212,
+      "first_air_date": "2021-01-08",
+      "name": "Lupin",
+      "origin_country": [
+        "FR"
+      ],
+      "original_name": "Lupin"
+    },
+    {
+      "backdrop_path": "/mZjZgY6ObiKtVuKVDrnS9VnuNlE.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 71712,
+      "original_language": "en",
+      "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives",
+      "popularity": 892.967,
+      "poster_path": "/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg",
+      "vote_average": 8.6,
+      "vote_count": 6404,
+      "first_air_date": "2017-09-25",
+      "name": "The Good Doctor",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "The Good Doctor"
+    },
+    {
+      "backdrop_path": "/8AdmUPTyidDebwIuakqkSt6u1II.jpg",
+      "genre_ids": [
+        9648,
+        10765,
+        18
+      ],
+      "id": 79242,
+      "original_language": "en",
+      "overview": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.",
+      "popularity": 738.329,
+      "poster_path": "/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg",
+      "vote_average": 8.4,
+      "vote_count": 2123,
+      "first_air_date": "2018-10-26",
+      "name": "Chilling Adventures of Sabrina",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "Chilling Adventures of Sabrina"
+    },
+    {
+      "backdrop_path": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+      "genre_ids": [
+        10765,
+        10759,
+        9648,
+        35
+      ],
+      "id": 85271,
+      "original_language": "en",
+      "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+      "popularity": 717.654,
+      "poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "vote_average": 8.5,
+      "vote_count": 1000,
+      "first_air_date": "2021-01-15",
+      "name": "WandaVision",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "WandaVision"
+    },
+    {
+      "backdrop_path": "/edmk8xjGBsYVIf4QtLY9WMaMcXZ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1416,
+      "original_language": "en",
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "popularity": 710.281,
+      "poster_path": "/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg",
+      "vote_average": 8.2,
+      "vote_count": 4962,
+      "first_air_date": "2005-03-27",
+      "name": "Grey's Anatomy",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "Grey's Anatomy"
+    },
+    {
+      "backdrop_path": "/9hvhGtcsGhQY58pukw8w55UEUbL.jpg",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 69050,
+      "original_language": "en",
+      "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of real small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+      "popularity": 693.754,
+      "poster_path": "/4X7o1ssOEvp4BFLim1AZmPNcYbU.jpg",
+      "vote_average": 8.6,
+      "vote_count": 7715,
+      "first_air_date": "2017-01-26",
+      "name": "Riverdale",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "Riverdale"
+    },
+    {
+      "backdrop_path": "/m7FqiUOvsSk7Ulg2oRMfFGcLeT9.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 91239,
+      "original_language": "en",
+      "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+      "popularity": 642.541,
+      "poster_path": "/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",
+      "vote_average": 8.3,
+      "vote_count": 421,
+      "first_air_date": "2020-12-25",
+      "name": "Bridgerton",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "Bridgerton"
+    },
+    {
+      "backdrop_path": "/b7MUOLzo9kxQRSjGHwp589HMdxI.jpg",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 86382,
+      "original_language": "en",
+      "overview": "In a world mostly wiped out by the plague and embroiled in an elemental struggle between good and evil, the fate of mankind rests on the frail shoulders of the 108-year-old Mother Abagail and a handful of survivors. Their worst nightmares are embodied in a man with a lethal smile and unspeakable powers: Randall Flagg, the Dark Man.",
+      "popularity": 642.48,
+      "poster_path": "/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg",
+      "vote_average": 7.2,
+      "vote_count": 116,
+      "first_air_date": "2020-12-17",
+      "name": "The Stand",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "The Stand"
+    },
+    {
+      "backdrop_path": "/mE3zzMkpP8yqlkzdjPsQmJHceoe.jpg",
+      "genre_ids": [
+        10759,
+        10765,
+        18
+      ],
+      "id": 75006,
+      "original_language": "en",
+      "overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+      "popularity": 580.606,
+      "poster_path": "/scZlQQYnDVlnpxFTxaIv2g0BWnL.jpg",
+      "vote_average": 8.7,
+      "vote_count": 5390,
+      "first_air_date": "2019-02-15",
+      "name": "The Umbrella Academy",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "The Umbrella Academy"
+    },
+    {
+      "backdrop_path": "/bKxiLRPVWe2nZXCzt6JPr5HNWYm.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        10759,
+        10765
+      ],
+      "id": 110316,
+      "original_language": "ja",
+      "overview": "With his two friends, a video-game-obsessed young man finds himself in a strange version of Tokyo where they must compete in dangerous games to win.",
+      "popularity": 561.723,
+      "poster_path": "/20mOwAAPwZ1vLQkw0fvuQHiG7bO.jpg",
+      "vote_average": 8.3,
+      "vote_count": 103,
+      "first_air_date": "2020-12-10",
+      "name": "Alice in Borderland",
+      "origin_country": [
+        "JP"
+      ],
+      "original_name": "今際の国のアリス"
+    },
+    {
+      "backdrop_path": "/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+      "genre_ids": [
+        80,
+        10765
+      ],
+      "id": 63174,
+      "original_language": "en",
+      "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "popularity": 552.654,
+      "poster_path": "/4EYPN5mVIhKLfxGruy7Dy41dTVn.jpg",
+      "vote_average": 8.5,
+      "vote_count": 7115,
+      "first_air_date": "2016-01-25",
+      "name": "Lucifer",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "Lucifer"
+    },
+    {
+      "backdrop_path": "/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 95479,
+      "original_language": "ja",
+      "overview": "Yuuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a friend who has been attacked by Curses, he eats a finger of Ryoumen Sukuna, taking the Curse into his own soul. From then on, he shares one body with Sukuna. Guided by the most powerful of sorcerers, Satoru Gojou, Itadori is admitted to the Tokyo Prefectural Jujutsu High School, an organization that fights the Curses... and thus begins the heroic tale of a boy who became a Curse to exorcise a Curse, a life from which he could never turn back.",
+      "popularity": 509.29,
+      "poster_path": "/g1rK2nRXSidcMwNliWDIroWWGTn.jpg",
+      "vote_average": 8.7,
+      "vote_count": 391,
+      "first_air_date": "2020-10-03",
+      "name": "Jujutsu Kaisen",
+      "origin_country": [
+        "JP"
+      ],
+      "original_name": "呪術廻戦"
+    },
+    {
+      "backdrop_path": "/y4Ia5VeYMWKFMk04lrOXkHrzwTt.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 111499,
+      "original_language": "es",
+      "overview": "In a contemporary Mexico City, a group of six sophisticated close friends navigate through every life experience imaginable together: love, lies, heartbreak, marriage, divorce, kids, career, job loss, fights, break-ups, and unbreakable friendships.",
+      "popularity": 479.932,
+      "poster_path": "/xYsNIxKD7JTg3hi03U2TlBFTGKI.jpg",
+      "vote_average": 8.1,
+      "vote_count": 244,
+      "first_air_date": "2020-06-11",
+      "name": "De brutas, nada",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "De brutas, nada"
+    },
+    {
+      "backdrop_path": "/suopoADq0k8YZr4dQXcU6pToj6s.jpg",
+      "genre_ids": [
+        10765,
+        18,
+        10759,
+        9648
+      ],
+      "id": 1399,
+      "original_language": "en",
+      "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "popularity": 367.076,
+      "poster_path": "/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+      "vote_average": 8.4,
+      "vote_count": 12323,
+      "first_air_date": "2011-04-17",
+      "name": "Game of Thrones",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "Game of Thrones"
+    },
+    {
+      "backdrop_path": "/uSvncE20Mh3seJLIHLEQnt0OcBv.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        18
+      ],
+      "id": 89844,
+      "original_language": "es",
+      "overview": "Father Vergara—an exorcist, boxer and ex-convict—lives in a remote village in Spain. Hoping to be lost and forgotten, Vergara’s demons catch up to him.",
+      "popularity": 357.774,
+      "poster_path": "/b2i9aaV6ncULl9jYXEoPi7VFJg8.jpg",
+      "vote_average": 6.8,
+      "vote_count": 186,
+      "first_air_date": "2020-11-29",
+      "name": "30 Coins",
+      "origin_country": [
+        "ES"
+      ],
+      "original_name": "30 Monedas"
+    },
+    {
+      "backdrop_path": "/k7T9xRyzP41wBVNyNeLmh8Ch7gD.jpg",
+      "genre_ids": [
+        18,
+        14,
+        27,
+        10749
+      ],
+      "id": 18165,
+      "original_language": "en",
+      "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+      "popularity": 356.999,
+      "poster_path": "/aBkVgChtyyJaHyZh1gfd8DbzQon.jpg",
+      "vote_average": 8.3,
+      "vote_count": 4803,
+      "first_air_date": "2009-09-10",
+      "name": "The Vampire Diaries",
+      "origin_country": [
+        "US"
+      ],
+      "original_name": "The Vampire Diaries"
+    },
+    {
+      "backdrop_path": "/1IO3hNWCeGStVuCopf6bJnazWyz.jpg",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 113600,
+      "original_language": "da",
+      "overview": "Haunted by visions after her sister vanished with her classmates 21 years before, Astrid begins an investigation that uncovers the dark, eerie truth.",
+      "popularity": 355.491,
+      "poster_path": "/bnU3Rz3nR844WZNOyrCk8W52DUs.jpg",
+      "vote_average": 7.7,
+      "vote_count": 103,
+      "first_air_date": "2020-12-30",
+      "name": "Equinox",
+      "origin_country": [
+        "DK"
+      ],
+      "original_name": "Equinox"
+    },
+    {
+      "backdrop_path": "/9PaJZrGW5qYXfSVJYAmKIEEQMdH.jpg",
+      "first_air_date": "2020-12-18",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 96648,
+      "name": "Sweet Home",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "스위트홈",
+      "overview": "Cha Hyun-Soo is a high school student. He is also a recluse and rarely leaves his room. He refuses to talk to his father, mother and younger sister. One day, his whole family, except for him, dies in a car accident. Cha Hyun-Soo is left all alone. He moves into a small apartment. At this time, a mysterious phenomenon of humans turning into monster occur all around the world. The residents of Cha Hyun-Soo's apartment building, including Pyeon Sang-Wook, fight against these monsters and try to survive.",
+      "popularity": 341.449,
+      "poster_path": "/6eMg81CPLalULg8spPt2LxfQtFj.jpg",
+      "vote_average": 8.6,
+      "vote_count": 281
+    },
+    {
+      "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+      "first_air_date": "2020-10-23",
+      "genre_ids": [
+        18
+      ],
+      "id": 87739,
+      "name": "The Queen's Gambit",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Queen's Gambit",
+      "overview": "In a Kentucky orphanage in the 1950s, a young girl discovers an astonishing talent for chess while struggling with addiction.",
+      "popularity": 336.74,
+      "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+      "vote_average": 8.7,
+      "vote_count": 1276
+    },
+    {
+      "backdrop_path": "/hpU2cHC9tk90hswCFEpf5AtbqoL.jpg",
+      "first_air_date": "1989-12-16",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        18
+      ],
+      "id": 456,
+      "name": "The Simpsons",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Simpsons",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "popularity": 336.526,
+      "poster_path": "/2IWouZK4gkgHhJa3oyYuSWfSqbG.jpg",
+      "vote_average": 7.8,
+      "vote_count": 5779
+    },
+    {
+      "backdrop_path": "/hTExot1sfn7dHZjGrk0Aiwpntxt.jpg",
+      "first_air_date": "2014-03-19",
+      "genre_ids": [
+        10765,
+        18,
+        10759
+      ],
+      "id": 48866,
+      "name": "The 100",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The 100",
+      "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+      "popularity": 329.483,
+      "poster_path": "/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
+      "vote_average": 7.8,
+      "vote_count": 5453
+    },
+    {
+      "backdrop_path": "/rgBxEVr44C00hBg3jLicxWMy9yy.jpg",
+      "first_air_date": "2020-12-11",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 113367,
+      "name": "The Wilds",
+      "origin_country": [],
+      "original_language": "en",
+      "original_name": "The Wilds",
+      "overview": "A group of teen girls from different backgrounds must fight for survival after a plane crash strands them on a deserted island. The castaways both clash and bond as they learn more about each other, the secrets they keep, and the traumas they've all endured. But there’s just one twist… these girls did not end up on this island by accident.",
+      "popularity": 329.309,
+      "poster_path": "/gHBtyMdHbWoM3tpM8VZymer8HfF.jpg",
+      "vote_average": 8,
+      "vote_count": 115
+    },
+    {
+      "backdrop_path": "/oycArCLGgtWyUz5aho7ojFZkgjN.jpg",
+      "first_air_date": "2002-10-03",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 46260,
+      "name": "Naruto",
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "ナルト",
+      "overview": "In another world, ninja are the ultimate power, and in the Village Hidden in the Leaves live the stealthiest ninja in the land. Twelve years earlier, the fearsome Nine-Tailed Fox terrorized the village and claimed many lives before it was subdued and its spirit sealed within the body of a baby boy. That boy, Naruto Uzumaki, has grown up to become a ninja-in-training who's more interested in pranks than in studying ninjutsu.. but Naruto is determined to become the greatest ninja ever!",
+      "popularity": 329.234,
+      "poster_path": "/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+      "vote_average": 8.4,
+      "vote_count": 2896
+    },
+    {
+      "backdrop_path": "/mGVrXeIjyecj6TKmwPVpHlscEmw.jpg",
+      "first_air_date": "2019-07-25",
+      "genre_ids": [
+        10765,
+        10759
+      ],
+      "id": 76479,
+      "name": "The Boys",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "popularity": 328.572,
+      "poster_path": "/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg",
+      "vote_average": 8.5,
+      "vote_count": 3926
+    },
+    {
+      "backdrop_path": "/3Ehu0zk1XLvt5SfcRjZDcKbmFac.jpg",
+      "first_air_date": "2020-12-18",
+      "genre_ids": [
+        10759,
+        18,
+        10768
+      ],
+      "id": 94167,
+      "name": "El Cid",
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "El Cid",
+      "overview": "The story of Rodrigo Díaz de Vivar, a Castilian nobleman and war hero in medieval Spain.",
+      "popularity": 326.101,
+      "poster_path": "/jTDpdYASFxX45GWkGPHmS74BNvz.jpg",
+      "vote_average": 6.9,
+      "vote_count": 48
+    },
+    {
+      "backdrop_path": "/qsTlD6rYb5vXOlBTT9Lj2hBp44X.jpg",
+      "first_air_date": "2013-04-15",
+      "genre_ids": [
+        80,
+        18,
+        10766
+      ],
+      "id": 44953,
+      "name": "The Lord of the Skies",
+      "origin_country": [
+        "MX"
+      ],
+      "original_language": "es",
+      "original_name": "El señor de los cielos",
+      "overview": "Set in the 1990s, these are the life and times of Amado Carrillo Fuentes, a man who became the head of the Juárez cartel. Nicknamed “El Señor de los Cielos” (Lord of the Skies) because of the large fleet of airplanes he used to transport drugs, he was also known for washing more than $200 million through Colombia to finance his huge fleet. He is described as the most powerful drug trafficker of his time.",
+      "popularity": 317.101,
+      "poster_path": "/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+      "vote_average": 7.7,
+      "vote_count": 904
+    },
+    {
+      "backdrop_path": "/92B6765nyQkIW8yLWt3pNcS6Cip.jpg",
+      "first_air_date": "2015-08-23",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "id": 62286,
+      "name": "Fear the Walking Dead",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Fear the Walking Dead",
+      "overview": "What did the world look like as it was transforming into the horrifying apocalypse depicted in \"The Walking Dead\"? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
+      "popularity": 316.711,
+      "poster_path": "/wGFUewXPeMErCe2xnCmmLEiHOGh.jpg",
+      "vote_average": 7.5,
+      "vote_count": 2999
+    },
+    {
+      "backdrop_path": "/wgEWTYAAY7F04o4F20j0L1DGB8i.jpg",
+      "first_air_date": "2019-07-23",
+      "genre_ids": [
+        18
+      ],
+      "id": 91605,
+      "name": "I Am...",
+      "origin_country": [],
+      "original_language": "en",
+      "original_name": "I Am...",
+      "overview": "Each hour-long film follows a different women as they experience “moments that are emotionally raw, thought-provoking and utterly personal”.",
+      "popularity": 315.086,
+      "poster_path": "/oogunE22HDTcTxFakKQbwqfw1qo.jpg",
+      "vote_average": 5.6,
+      "vote_count": 11
+    },
+    {
+      "backdrop_path": "/8FDb3FUNGEeiPmHG00Onlu6xVnE.jpg",
+      "first_air_date": "2020-12-11",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "id": 94413,
+      "name": "The Mess You Leave Behind",
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "El desorden que dejas",
+      "overview": "A teacher starts her job at a high school but is haunted by a suspicious death that occurred there weeks before and begins fearing for her own life.",
+      "popularity": 307.604,
+      "poster_path": "/lO3JkTPko8kEr2luYGwQocU1lJH.jpg",
+      "vote_average": 5.1,
+      "vote_count": 15
+    },
+    {
+      "backdrop_path": "/Wu8kh7oyvaIfkNyMJyJHCamh5L.jpg",
+      "first_air_date": "2020-12-04",
+      "genre_ids": [
+        18
+      ],
+      "id": 97180,
+      "name": "Selena: The Series",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Selena: The Series",
+      "overview": "As Mexican-American Tejano singer Selena comes of age and realizes her dreams, she and her family make tough choices to hold on to love and music.",
+      "popularity": 306.455,
+      "poster_path": "/mYsWyfiIMxx4HDm0Wck7oJ9ckez.jpg",
+      "vote_average": 7.5,
+      "vote_count": 934
+    },
+    {
+      "backdrop_path": "/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg",
+      "first_air_date": "2010-10-31",
+      "genre_ids": [
+        10759,
+        18,
+        10765
+      ],
+      "id": 1402,
+      "name": "The Walking Dead",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Walking Dead",
+      "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+      "popularity": 293.431,
+      "poster_path": "/qgjP2OrrX9gc6M270xdPnEmE9tC.jpg",
+      "vote_average": 8,
+      "vote_count": 9308
+    },
+    {
+      "backdrop_path": "/jC1KqsFx8ZyqJyQa2Ohi7xgL7XC.jpg",
+      "first_air_date": "2014-10-07",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 60735,
+      "name": "The Flash",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Flash",
+      "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "popularity": 291.925,
+      "poster_path": "/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+      "vote_average": 7.6,
+      "vote_count": 6524
+    },
+    {
+      "backdrop_path": "/1qOA3kMtQO8bjnW8M2smjA8tp10.jpg",
+      "first_air_date": "2018-10-05",
+      "genre_ids": [
+        80,
+        9648,
+        18
+      ],
+      "id": 76669,
+      "name": "Elite",
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "Élite",
+      "overview": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+      "popularity": 287.106,
+      "poster_path": "/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
+      "vote_average": 8.3,
+      "vote_count": 5694
+    },
+    {
+      "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+      "first_air_date": "2016-07-15",
+      "genre_ids": [
+        9648,
+        10765,
+        18
+      ],
+      "id": 66732,
+      "name": "Stranger Things",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "popularity": 286.136,
+      "poster_path": "/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+      "vote_average": 8.6,
+      "vote_count": 7163
+    },
+    {
+      "backdrop_path": "/iCBMJZFsdXALgpS121qu4CAe2Sa.jpg",
+      "first_air_date": "2017-09-27",
+      "genre_ids": [
+        10759,
+        18,
+        10768
+      ],
+      "id": 71789,
+      "name": "SEAL Team",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "SEAL Team",
+      "overview": "The lives of the elite Navy Seals as they train, plan and execute the most dangerous, high-stakes missions our country can ask.",
+      "popularity": 278.844,
+      "poster_path": "/uTSLeQTeHevt4fplegmQ6bOnE0Z.jpg",
+      "vote_average": 7.8,
+      "vote_count": 799
+    },
+    {
+      "backdrop_path": "/oAkpvVvoyZWMo9cpNk3aQoVKsjM.jpg",
+      "first_air_date": "2016-07-19",
+      "genre_ids": [
+        10759,
+        80,
+        18,
+        9648
+      ],
+      "id": 67335,
+      "name": "Sin senos sí hay paraíso",
+      "origin_country": [
+        "CO"
+      ],
+      "original_language": "es",
+      "original_name": "Sin senos sí hay paraíso",
+      "overview": "A young woman born in a mafia-controlled town seeks revenge on those who wrongfully harmed and imprisoned her family.",
+      "popularity": 278.177,
+      "poster_path": "/ulcGG2JKjbVMQFIux1vcQGN1pQi.jpg",
+      "vote_average": 7.5,
+      "vote_count": 1731
+    },
+    {
+      "backdrop_path": "/kuOt3LxmHW8k39SK2tyg6qSWhop.jpg",
+      "first_air_date": "2001-10-16",
+      "genre_ids": [
+        10759,
+        10765,
+        18
+      ],
+      "id": 4604,
+      "name": "Smallville",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Smallville",
+      "overview": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.",
+      "popularity": 272.316,
+      "poster_path": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+      "vote_average": 8.1,
+      "vote_count": 1986
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}
